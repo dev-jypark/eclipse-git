@@ -11,7 +11,7 @@
 </h1>
 <P>  The time on the server is ${serverTime}. </P>
 <form method="GET" action="<c:url value="/songs"/>">
-	<button>예시 페이지를 보기</button>
+	<button>json으로 example 테이블 리스트 받아오기</button>
 </form>
 </body>
 </html>
